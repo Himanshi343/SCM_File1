@@ -1,2 +1,6 @@
 Yo!
 Wassup?!
+
+*.log
+node_modules/
+*.env
