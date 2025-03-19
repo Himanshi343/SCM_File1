@@ -1,5 +1,12 @@
+<<<<<<< HEAD
+ihdfvjergk
+hello
+yoooo
+ooo
+=======
 sooo here our Task 2....
 hopefully we do our best in SCM Practicals
 by the way mam teaches us very nicely 
 mam gives me vibes like boss lady which i like it very much.
 
+>>>>>>> scm_file
